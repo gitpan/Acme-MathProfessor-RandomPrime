@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-MathProfessor-RandomPrime
-version:            2009111901
+version:            2009111902
 abstract:           Pick a random prime number
 author:
     - Abigail <cpan@abigail.be>
@@ -8,6 +8,10 @@ license:            mit
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
+    strict:               0
+    Test::More:           0
+    Test::NoWarnings:     0
+    warnings:             0
 build_requires:
     ExtUtils::MakeMaker:  0
     strict:               0
