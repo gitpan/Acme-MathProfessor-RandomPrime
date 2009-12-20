@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-MathProfessor-RandomPrime
-version:            2009111902
+version:            2009121001
 abstract:           Pick a random prime number
 author:
     - Abigail <cpan@abigail.be>
